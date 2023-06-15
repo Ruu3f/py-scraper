@@ -1,5 +1,6 @@
 # py-scraper
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 py-scraper is a web scraping tool designed to extract data from multiple websites. It provides a customizable and extensible framework for scraping tasks, focusing on flexibility and reliability.
 > :warning: **Disclaimer**: Please note that web scraping may be subject to legal restrictions or the terms of service of the websites you are targeting. Unauthorized scraping can lead to IP bans and legal consequences. Ensure that you are aware of and comply with all relevant laws and regulations before using this tool. The owner of this repository is not responsible for any misuse or damage caused by the usage of this web scraper.
 
